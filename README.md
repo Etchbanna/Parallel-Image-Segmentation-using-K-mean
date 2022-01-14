@@ -1,1 +1,1 @@
-# Parallel-Image-Segmentation-using-K-mean
+# Parallel-Image-Segmentation-using-K-means
